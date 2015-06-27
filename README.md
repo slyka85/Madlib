@@ -1,0 +1,4 @@
+ - Before playing the game, first run `npm install` in the app folder to install colors module
+ - User starts playing a game by typing `node app.js play`.
+ - User chooses from the 3 themes provided by typing a number from: 1, 2 or 3.
+ - If user's ipnut is incorrect, the error is displayed.

@@ -1,0 +1,8 @@
+{
+  "name": "madlib",
+  "version": "1.0.0",
+  "description": "Command line Madlib game",
+  "main": "app.js",
+  "author": "Anya Melnyk",
+  "license": "ISC"
+}
