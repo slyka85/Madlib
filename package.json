@@ -4,5 +4,8 @@
   "description": "Command line Madlib game",
   "main": "app.js",
   "author": "Anya Melnyk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
